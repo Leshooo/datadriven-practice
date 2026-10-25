@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-10-25 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-25 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-10-25 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-10-09 |
