@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-10-26 |
 | [The High and the Low](./practice/sql/the-high-and-the-low) | SQL | Hard | 2026-10-25 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-10-25 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-10-25 |
