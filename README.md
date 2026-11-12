@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-11-12 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-10-26 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-10-26 |
 | [The High and the Low](./practice/sql/the-high-and-the-low) | SQL | Hard | 2026-10-25 |
