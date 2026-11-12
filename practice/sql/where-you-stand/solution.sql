@@ -1,0 +1,7 @@
+--select * from svc_health
+select svc_name,
+       region,
+       latency,
+       avg(latency) over(partition by region) as avg_region_latency
+from svc_health
+order by region, svc_name, latency

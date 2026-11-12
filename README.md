@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-11-12 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-12 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-11-12 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-10-26 |
