@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-16 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-11-12 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-12 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-11-12 |
