@@ -1,5 +1,4 @@
-SELECT
-  COALESCE(ack_by, 'unassigned') AS responder,
-  COUNT(*) AS alert_count
-FROM alert_events
-GROUP BY responder
+select COALESCE(ack_by,'unassigned') as responder,
+       count(*) alert_count
+from alert_events
+group by responder
