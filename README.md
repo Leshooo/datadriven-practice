@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-11-18 |
 | [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-11-18 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-16 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-11-12 |
