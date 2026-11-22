@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-22 |
 | [The Upper Rungs](./practice/sql/the-upper-rungs) | SQL | Easy | 2026-11-19 |
 | [Largest Group](./practice/sql/largest-group) | SQL | Easy | 2026-11-18 |
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-11-18 |
