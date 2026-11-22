@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-22 |
 | [Against the Clock](./practice/sql/against-the-clock) | SQL | Easy | 2026-11-22 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-22 |
 | [The Upper Rungs](./practice/sql/the-upper-rungs) | SQL | Easy | 2026-11-19 |
