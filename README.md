@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/leshoo), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Left On](./practice/sql/left-on) | SQL | Medium | 2026-11-25 |
 | [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-11-23 |
 | [Top Product Categories](./practice/sql/top-product-categories) | SQL | Medium | 2026-11-23 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-22 |
